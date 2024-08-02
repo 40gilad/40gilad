@@ -5,9 +5,6 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=40gilad&label=Profile%20views&color=0e75b6&style=flat" alt="40gilad" /> </p>
 
-- 💬 Ask me about **OOP, Unity, C#**
-
-- 📫 How to reach me **40gilad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
