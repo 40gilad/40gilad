@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer and Developer</h3>
 <img height="266" width="400 align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNvNnYyMWJ4NXdrcWc2NDBsb3J4aWRpcWZyMjR5YXhwYjFlN2V5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u44O2zpYTGF8fZK/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=40gilad&label=Profile%20views&color=0e75b6&style=flat" alt="40gilad" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=40gilad&label=Profile%20views&color=0e75b6&style=flat" alt="40gilad" /> </p>
 
 - 💬 Ask me about **OOP, Unity, C#**
 
