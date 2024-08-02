@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gilad</h1>
-<h3 align="left">Software Engineer and Developer</h3>
+<h3 align="center">Software Engineer and Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=40gilad&label=Profile%20views&color=0e75b6&style=flat" alt="40gilad" /> </p>
 
@@ -9,8 +9,8 @@
 
 
 
-<h3 align="right">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
